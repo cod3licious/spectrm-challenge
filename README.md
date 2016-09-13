@@ -1,6 +1,8 @@
 # Spectrm AI Hiring Challenge
 
-Taking on this challenge is the first step in the application process to become a [Machine Learning Scientist at Spectrm](https://medium.com/work-at-spectrm/machine-learning-scientist-ad2f21e886d4#.m7aim18ho).
+Taking on this challenge is the first step in the application process to become a [Machine Learning Scientist at Spectrm](https://medium.com/work-at-spectrm/machine-learning-scientist-ad2f21e886d4#.m7aim18ho). 
+
+**Deadline: Sept. 25th, 2016**
 
 ## The Challenge
 
